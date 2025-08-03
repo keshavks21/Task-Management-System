@@ -16,3 +16,13 @@
 
 # npm install :
 - To install all required file, modules, packages
+
+
+# Models:
+- Create User and Task model
+
+# Middleware:
+- Create auth.js : For authenticate user
+
+# Utils :
+- Create validation.js : For validate user input
